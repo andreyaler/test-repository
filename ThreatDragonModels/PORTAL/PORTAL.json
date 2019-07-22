@@ -10,7 +10,13 @@
         "name": "PORTAL"
       }
     ],
-    "diagrams": [],
+    "diagrams": [
+      {
+        "title": "Amenaza Portal",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
     "reviewer": "PORTAL"
   }
 }
